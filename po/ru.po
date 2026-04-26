@@ -645,7 +645,7 @@ msgid "Sleep timer cancelled."
 msgstr "Таймер сна отменён."
 
 msgid "Sleep timer set for 1 minute."
-msgstr "Таймер сна установлен на %d минуту."
+msgstr "Таймер сна установлен на 1 минуту."
 
 #, c-format
 msgid "Sleep timer set for %d minutes."
